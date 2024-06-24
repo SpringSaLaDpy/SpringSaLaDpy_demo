@@ -1,5 +1,0 @@
-asttokens==2.4.1
-cement==3.0.8
-molclustpy==0.1.0
-springsaladpy==0.0.15
-networkx==3.2.1
