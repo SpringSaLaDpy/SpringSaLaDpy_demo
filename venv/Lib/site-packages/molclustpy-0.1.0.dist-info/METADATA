@@ -1,0 +1,36 @@
+Metadata-Version: 2.1
+Name: molclustpy
+Version: 0.1.0
+Summary: A Python package to analyze multivalent biomolecular clustering.
+Home-page: https://molclustpy.github.io/
+Author: Aniruddha Chattaraj, Michael Blinov, Indivar Nalagandla
+Author-email: chattarajaniruddha@gmail.com
+License: MIT License
+Keywords: BioNetGen,NumPy,Matplotlib,pandas,,
+Platform: UNKNOWN
+Classifier: Development Status :: 1 - Planning
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: Unix
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows
+Description-Content-Type: text/markdown
+License-File: LICENCE.txt
+Requires-Dist: bionetgen
+Requires-Dist: numpy
+Requires-Dist: matplotlib
+Requires-Dist: pandas
+
+# MolClustPy
+
+## Python package to characterize the multivalent biomolecular clusters 
+
+<b>MolClustPy</b> is a Python package to perform multiple stochastic simulation runs using NFsim (Network-Free stochastic simulator, [Sneddon et al, 2011](https://pubmed.ncbi.nlm.nih.gov/21186362/)) and characterize distribution of cluster sizes, molecular composition, and bonds across molecular clusters and individual molecules of different types. 
+
+
+Github:
+https://github.com/achattaraj/MolClustPy
+
+Website:
+https://molclustpy.github.io/
+
