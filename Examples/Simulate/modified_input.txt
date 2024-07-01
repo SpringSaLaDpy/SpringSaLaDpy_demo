@@ -16,7 +16,7 @@ Partition Nz: 10
 
 *** MOLECULES ***
 
-MOLECULE: "R" Membrane Number 6 Site_Types 3 Total_Sites 4 Total_Links 4 is2D false
+MOLECULE: "R" Membrane Number 8 Site_Types 3 Total_Sites 4 Total_Links 4 is2D false
 {
      TYPE: Name "R" Radius 2.00000 D 1.000 Color RED STATES "State0" "State1" 
      TYPE: Name "L" Radius 1.00000 D 1.000 Color ORANGE STATES "State0" 
@@ -43,7 +43,7 @@ MOLECULE: "R" Membrane Number 6 Site_Types 3 Total_Sites 4 Total_Links 4 is2D fa
      Initial_Positions: Random
 }
 
-MOLECULE: "Adapter" Intracellular Number 2 Site_Types 2 Total_Sites 3 Total_Links 2 is2D false
+MOLECULE: "Adapter" Intracellular Number 8 Site_Types 2 Total_Sites 3 Total_Links 2 is2D false
 {
      TYPE: Name "A" Radius 3.00000 D 1.000 Color BLUE STATES "State0" 
      TYPE: Name "L" Radius 1.00000 D 1.000 Color GOLD STATES "State0" 
@@ -84,7 +84,7 @@ MOLECULE: Adapter null
 
 *** BIMOLECULAR BINDING REACTIONS ***
 
-'BindingReaction0' 'R' : 'R' : 'Any_State' + 'Adapter' : 'A' : 'Any_State' kon 5 koff 20 Bond_Length 1.0
+'BindingReaction0' 'R' : 'R' : 'Any_State' + 'Adapter' : 'A' : 'Any_State' kon 10000 koff 100 Bond_Length 1.0
 
 *** MOLECULE COUNTERS ***
 
