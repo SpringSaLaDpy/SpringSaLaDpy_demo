@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "demo"
+version = "0.1.0"
+description = "A package for testing the saladpy package"
+authors = ["Hlpred <71465959+Hlpred@users.noreply.github.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+matplotlib = "*"
+networkx = "*"
+libroadrunner = "*"
+numpy = "*"
+pandas = "*"
+molclustpy = "^0.1.0"
+setuptools = "69.5.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
