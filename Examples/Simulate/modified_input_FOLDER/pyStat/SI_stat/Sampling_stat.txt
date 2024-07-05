@@ -1,4 +1,4 @@
 Complete Trajectories : 4
 
-Steady state timepoints (ms): [5.0, 6.0, 7.0]
+Steady state timepoints (ms): [10.0]
 
