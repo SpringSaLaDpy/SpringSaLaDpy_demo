@@ -4,5 +4,3 @@ Cluster Size 	 ['R', 'Adapter'] : frequency
 
   4		2,2 : 100.00%	
 
-  5		2,3 : 100.00%	
-
