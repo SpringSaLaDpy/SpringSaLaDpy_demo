@@ -1,1 +1,0 @@
-Running Time: 38.398 sec.
