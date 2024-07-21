@@ -10,4 +10,4 @@ Clone this repository and install the associated package by running the command:
 
 ## Source Code
 
-For the source code for the SpringSaLaDpy package can be found here: https://github.com/SpringSaLaDpy/package
+The source code for the SpringSaLaDpy package can be found here: https://github.com/SpringSaLaDpy/package
