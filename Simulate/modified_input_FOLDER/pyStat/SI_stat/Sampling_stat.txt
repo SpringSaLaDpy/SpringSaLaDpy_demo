@@ -1,0 +1,4 @@
+Complete Trajectories : 5
+
+Steady state timepoints (ms): [10.0]
+
