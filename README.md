@@ -2,7 +2,7 @@
 
 ## Description
 
-This repository contains two Jupyter Notebooks (simulate.ipynb & analysis.ipynb) that demonstrate the simulation, analysis, and visualization capabilities of SpringSaLaDpy. It also contains SpringSaLaD simulations that have already been run.
+This repository contains two Jupyter Notebooks (simulate.ipynb & analysis.ipynb) that demonstrate the simulation, analysis, and visualization capabilities of SpringSaLaDpy. It also contains SpringSaLaD simulations that have already been run. Check the Examples folder to see these simulations visualized with analysis.ipynb.
 
 ## Usage
 

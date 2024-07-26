@@ -1,1 +1,1 @@
-Running Time: 22.696 sec.
+Running Time: 2 min. 25.290 sec.

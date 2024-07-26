@@ -1,6 +1,36 @@
-Total clusters, 9
+Total clusters, 23
 
 Cluster Index, 1
+Size, 3
+R, 2
+Adapter, 1
+
+Cluster Index, 2
+Size, 3
+R, 2
+Adapter, 1
+
+Cluster Index, 5
+Size, 2
+R, 1
+Adapter, 1
+
+Cluster Index, 6
+Size, 4
+R, 2
+Adapter, 2
+
+Cluster Index, 7
+Size, 3
+R, 2
+Adapter, 1
+
+Cluster Index, 8
+Size, 2
+R, 1
+Adapter, 1
+
+Cluster Index, 9
 Size, 2
 R, 1
 Adapter, 1

@@ -1,16 +1,36 @@
-Total clusters, 5
+Total clusters, 15
 
 Cluster Index, 0
-Size, 3
-R, 1
-Adapter, 2
+Size, 14
+R, 7
+Adapter, 7
 
 Cluster Index, 1
+Size, 2
+R, 1
+Adapter, 1
+
+Cluster Index, 2
 Size, 3
 R, 2
 Adapter, 1
 
 Cluster Index, 3
+Size, 2
+R, 1
+Adapter, 1
+
+Cluster Index, 4
+Size, 2
+R, 1
+Adapter, 1
+
+Cluster Index, 5
+Size, 2
+R, 1
+Adapter, 1
+
+Cluster Index, 6
 Size, 2
 R, 1
 Adapter, 1
