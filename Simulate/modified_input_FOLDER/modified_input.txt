@@ -201,4 +201,3 @@ RunningTimes: 'RunningTimes.csv'
 'Adapter Site 1' LOCATION 'Simulation0_SIM_AverageSiteProperties_Adapter_Site_1_0_4.csv'
 'Adapter Site 2' LOCATION 'Simulation0_SIM_AverageSiteProperties_Adapter_Site_2_0_4.csv'
 
-Runs: 5
